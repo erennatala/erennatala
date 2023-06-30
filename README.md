@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammet Eren Atala! 👋
+# Hi there, I'm Eren Atala! 👋
 
 ## About Me
 I'm a junior software engineer based in Istanbul, Turkey, passionate about learning new technologies and applying my analytical approach to problem-solving. My experience spans across mobile application development and web development. I enjoy using project management tools and working in an agile environment.
