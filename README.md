@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Muhammet Eren Atala! 👋
 
-<!--
-**erennatala/erennatala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a junior software engineer based in Istanbul, Turkey, passionate about learning new technologies and applying my analytical approach to problem-solving. My experience spans across mobile application development and web development. I enjoy using project management tools and working in an agile environment.
 
-Here are some ideas to get you started:
+## My Skills 🚀
+- Programming Languages: Python, Java, C++, .NET, React Native, SQL
+- Frameworks: Spring Boot
+- Database Management
+- Project Management Tools
+- Agile Environment
+- Mobile Application Development
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects 🎯
+- **Game Recommendation System**: A hybrid recommendation engine using Steam API, Content-Based Filtering, and Collaborative Filtering with SVD and EM algorithms. Developed with Spring Boot and Docker.
+- **Intelligent Personal Assistant - ALLISON**: A project that involved designing an online chat system for data acquisition and training Natural Language Processing algorithms.
+
+## Experience 💼
+- Software Engineering Intern at TURKCELL TECHNOLOGY
+- Network Security Intern at SÜTAŞ
+- Candidate Software Developer at SÜTAŞ
+
+## Get in touch 📫
+- LinkedIn: [muhammet-eren-atala](https://linkedin.com/in/muhammet-eren-atala-b695b4206/)
+- Email: muhammeterenatala@gmail.com
